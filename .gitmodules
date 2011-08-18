@@ -1,0 +1,45 @@
+[submodule "status160_project/rapidsms_auth"]
+	path = status160_project/rapidsms_auth
+	url = git://github.com/unicefuganda/rapidsms-auth
+[submodule "status160_project/rapidsms_authsites"]
+	path = status160_project/rapidsms_authsites
+	url = git://github.com/unicefuganda/rapidsms-authsites
+[submodule "status160_project/rapidsms_contact"]
+	path = status160_project/rapidsms_contact
+	url = git://github.com/unicefuganda/rapidsms-contact
+[submodule "status160_project/django_eav"]
+	path = status160_project/django_eav
+	url = git://github.com/unicefuganda/django-eav
+[submodule "status160_project/rapidsms_generic"]
+	path = status160_project/rapidsms_generic
+	url = git://github.com/unicefuganda/rapidsms-generic
+[submodule "status160_project/rapidsms_polls"]
+	path = status160_project/rapidsms_polls
+	url = git://github.com/unicefuganda/rapidsms-polls
+[submodule "status160_project/rapidsms"]
+	path = status160_project/rapidsms
+	url = git://github.com/unicefuganda/rapidsms
+[submodule "status160_project/rapidsms_httprouter_src"]
+	path = status160_project/rapidsms_httprouter_src
+	url = git://github.com/unicefuganda/rapidsms-httprouter
+[submodule "status160_project/rapidsms_xforms_src"]
+	path = status160_project/rapidsms_xforms_src
+	url = git://github.com/unicefuganda/rapidsms-xforms
+[submodule "status160_project/rapidsms_script"]
+	path = status160_project/rapidsms_script
+	url = git://github.com/unicefuganda/rapidsms-script
+[submodule "status160_project/rapidsms_status160"]
+	path = status160_project/rapidsms_status160
+	url = git://github.com/unicefuganda/rapidsms-status160
+[submodule "status160_project/rapidsms_supplytracking"]
+	path = status160_project/rapidsms_supplytracking
+	url = git://github.com/unicefuganda/rapidsms-supplytracking
+[submodule "status160_project/rapidsms_tracking"]
+	path = status160_project/rapidsms_tracking
+	url = git://github.com/unicefuganda/rapidsms-tracking
+[submodule "status160_project/rapidsms_uganda_common"]
+	path = status160_project/rapidsms_uganda_common
+	url = git://github.com/unicefuganda/rapidsms-uganda-common
+[submodule "status160_project/rapidsms_ureport"]
+	path = status160_project/rapidsms_ureport
+	url = git://github.com/unicefuganda/rapidsms-ureport
