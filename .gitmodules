@@ -1,9 +1,6 @@
 [submodule "status160_project/rapidsms_auth"]
 	path = status160_project/rapidsms_auth
 	url = git://github.com/unicefuganda/rapidsms-auth
-[submodule "status160_project/rapidsms_authsites"]
-	path = status160_project/rapidsms_authsites
-	url = git://github.com/unicefuganda/rapidsms-authsites
 [submodule "status160_project/rapidsms_contact"]
 	path = status160_project/rapidsms_contact
 	url = git://github.com/unicefuganda/rapidsms-contact
