@@ -213,7 +213,7 @@ if 'test' in sys.argv:
     for db_name in DATABASES:
         DATABASES[db_name]['TEST_NAME'] = os.path.join(
             tempfile.gettempdir(),
-            "%s.rapidsms.test.sqlite3" % db_name)
+            "%s.status160.test.sqlite3" % db_name)
 
 try:
     if os.environ.has_key('LOCAL_SETTINGS'):
