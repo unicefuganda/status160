@@ -42,6 +42,6 @@ if settings.DEBUG:
     )
 
 from rapidsms_httprouter.router import get_router
-get_router()
+get_router(start_workers=True)
 
 
