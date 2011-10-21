@@ -37,6 +37,3 @@
 [submodule "status160_project/rapidsms_uganda_common"]
 	path = status160_project/rapidsms_uganda_common
 	url = git://github.com/unicefuganda/rapidsms-uganda-common
-[submodule "status160_project/rapidsms_ureport"]
-	path = status160_project/rapidsms_ureport
-	url = git://github.com/unicefuganda/rapidsms-ureport
