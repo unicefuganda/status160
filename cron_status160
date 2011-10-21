@@ -1,1 +1,1 @@
-*/3 * * * * /var/www/env/prod/bin/python /var/www/prod/status160/status160_project/manage.py check_script_progress -e 7 -l 20
+*/3 * * * * www /var/www/env/prod/bin/python /var/www/prod/status160/status160_project/manage.py check_script_progress -e 7 -l 20
